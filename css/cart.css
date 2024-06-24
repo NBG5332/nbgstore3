@@ -112,3 +112,16 @@ button a:focus
         width: 80%;
     }
 }
+#checkoutBtn {
+    background-color: #009688;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    margin-top: 20px;
+}
+
+#checkoutBtn:hover {
+    background-color: #00796b;
+}
